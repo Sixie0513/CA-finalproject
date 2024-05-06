@@ -1,0 +1,117 @@
+﻿  Camera.cpp
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Camera.cpp(71,22): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Camera.cpp(72,23): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx12.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  main.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(68,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(68,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(69,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(69,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(71,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(302,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(303,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(304,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(305,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(306,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(307,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(310,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(311,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(312,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(313,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(317,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(320,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(321,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(323,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(328,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(329,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(330,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(333,77): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(333,56): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(339,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(340,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(344,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(345,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(491,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(495,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(496,65): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(497,67): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(502,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(503,55): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(810,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(810,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1145,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1188,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1231,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1274,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1317,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1360,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1403,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1446,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1580,58): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1605,53): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1630,53): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1656,59): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1669,59): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1698,58): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1750,57): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1800,57): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1844,56): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1889,54): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1932,53): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(1958,51): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(2012,52): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(2061,65): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(2088,69): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(2117,69): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(2159,65): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(2192,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(2192,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(2399,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\main.cpp(2530,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  Mesh.cpp
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(168,43): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(200,44): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(514,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(660,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(661,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(684,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(685,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(686,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(687,42): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(688,28): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(689,42): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Mesh.cpp(736,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Renderer.cpp
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Renderer.cpp(140,99): warning C4244: 'argument': conversion from 'float' to 'UINT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Renderer.cpp(140,92): warning C4244: 'argument': conversion from 'float' to 'UINT64', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Renderer.cpp(489,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Renderer.cpp(546,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Renderer.cpp(578,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Renderer.cpp(635,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Renderer.cpp(712,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Renderer.cpp(742,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Renderer.cpp(776,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Renderer.cpp(834,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Renderer.cpp(835,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Frame.cpp
+  Scene.cpp
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Scene.cpp(440,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Scene.cpp(450,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Scene.cpp(465,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Scene.cpp(475,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Scene.cpp(485,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Scene.cpp(495,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Scene.cpp(505,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Shader.cpp
+  Texture.cpp
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Texture.cpp(614,10): warning C4101: 'hr': unreferenced local variable
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Texture.cpp(641,19): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\Texture.cpp(642,20): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Generating Code...
+  WPWIV.vcxproj -> C:\Users\Sunny\Documents\GitHub\computer-animation\Final\observation - Wave-Particles-with-Interactive-Vortices-master\WPWIV\x64\Debug\WPWIV.exe
