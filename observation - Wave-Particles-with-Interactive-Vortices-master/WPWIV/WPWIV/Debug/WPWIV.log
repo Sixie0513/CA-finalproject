@@ -1,0 +1,11 @@
+﻿  compilation object save succeeded; see C:\Users\Sunny\Downloads\Wave-Particles-with-Interactive-Vortices-master\Wave-Particles-with-Interactive-Vortices-master\WPWIV\Debug\AdvectPS.cso
+  compilation object save succeeded; see C:\Users\Sunny\Downloads\Wave-Particles-with-Interactive-Vortices-master\Wave-Particles-with-Interactive-Vortices-master\WPWIV\Debug\ComputeDivergencePS.cso
+  compilation object save succeeded; see C:\Users\Sunny\Downloads\Wave-Particles-with-Interactive-Vortices-master\Wave-Particles-with-Interactive-Vortices-master\WPWIV\Debug\CreateObstaclePS.cso
+  compilation object save succeeded; see C:\Users\Sunny\Downloads\Wave-Particles-with-Interactive-Vortices-master\Wave-Particles-with-Interactive-Vortices-master\WPWIV\Debug\CreateObstacleVS.cso
+  compilation object save succeeded; see C:\Users\Sunny\Downloads\Wave-Particles-with-Interactive-Vortices-master\Wave-Particles-with-Interactive-Vortices-master\WPWIV\Debug\DomainShader.cso
+  compilation object save succeeded; see C:\Users\Sunny\Downloads\Wave-Particles-with-Interactive-Vortices-master\Wave-Particles-with-Interactive-Vortices-master\WPWIV\Debug\HullShader.cso
+  compilation object save succeeded; see C:\Users\Sunny\Downloads\Wave-Particles-with-Interactive-Vortices-master\Wave-Particles-with-Interactive-Vortices-master\WPWIV\Debug\JacobiPS.cso
+C:\Users\Sunny\Downloads\Wave-Particles-with-Interactive-Vortices-master\Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\ObstacleDS.hlsl(8,1-16): warning X3554: unknown attribute domain, or attribute invalid for this statement, valid attributes are: clipplanes, RootSignature
+C:\Users\Sunny\Downloads\Wave-Particles-with-Interactive-Vortices-master\Wave-Particles-with-Interactive-Vortices-master\WPWIV\WPWIV\ObstacleDS.hlsl(12,72-76): error X3658: 'main': OutputPatch inputs can only be used in the domain shaders and a hull shader's patch constant function
+  
+  compilation failed; no code produced
