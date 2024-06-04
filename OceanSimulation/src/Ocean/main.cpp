@@ -219,7 +219,7 @@ void OceanContext::Display() {
     ocean.geometryType(geometryType);
     ocean.colors((float*)&fogColor, (float*)&emissiveColor,
         (float*)&ambientColor, (float*)&diffuseColor, (float*)&specularColor);
-    ocean.render(elapsedTime, lightPosition, projection, view, model, true);
+    ocean.render(elapsedTime, lightPosition, projection, view, model, false);
 
 #ifndef USE_OPENGL2_0
     // Finish using framebuffer
